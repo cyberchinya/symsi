@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Medilab Bootstrap Template - Index</title>
+    <title>БУЗ УР "Сюмсинская районная больниа МЗ УР"</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/gerb.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -29,12 +29,6 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
-    <!-- =======================================================
-    * Template Name: Medilab - v4.7.1
-    * Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-    * Author: BootstrapMade.com
-    * License: https://bootstrapmade.com/license/
-    ======================================================== -->
 </head>
 
 <body>
@@ -43,14 +37,12 @@
 <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-between">
         <div class="contact-info d-flex align-items-center">
-            <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">contact@example.com</a>
-            <i class="bi bi-phone"></i> +1 5589 55488 55
+            <i class="bi bi-envelope"></i> <a href="sudm1502@udm.net">sudm1502@udm.net (секретарь), sumscrb2@udmnet.ru (метод. кабинет) </a>
+            <i class="bi bi-phone"></i> Приемная 8 (34152) 2-12-38
+            <i class="bi bi-phone"></i> Регистратура : 8(3412) 27-14-60
         </div>
         <div class="d-none d-lg-flex social-links align-items-center">
-            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+            <a href="https://vk.com/id474420236" target="_blank"><i class="fab fa-vk"></i></a>
         </div>
     </div>
 </div>
@@ -59,9 +51,9 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-        <h1 class="logo me-auto"><a href="index.html">Medilab</a></h1>
+        <h1 class="logo me-auto"><a href="/">Сюмси</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      {{--<a href="index.html" class="logo me-auto"><img src="assets/img/gerb.pnp" alt="" class="img-fluid"></a>--}}
 
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
@@ -100,16 +92,16 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
-        <h1>Welcome to Medilab</h1>
-        <h2>We are team of talented designers making websites with Bootstrap</h2>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+        <h1>Добро пожаловать</h1>
+        <h2>БУЗ УР "Сюмсинская районная больница МЗ УР"</h2>
+        {{--<a href="#about" class="btn-get-started scrollto">Get Started</a>--}}
     </div>
 </section><!-- End Hero -->
 
 <main id="main">
 
     <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
+  <section id="why-us" class="why-us">
         <div class="container">
 
             <div class="row">
@@ -155,7 +147,7 @@
             </div>
 
         </div>
-    </section><!-- End Why Us Section -->
+    </section>
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
