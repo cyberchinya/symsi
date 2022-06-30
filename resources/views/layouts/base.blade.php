@@ -10,24 +10,24 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="assets/img/gerb.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="{{ asset('assets/img/gerb.png') }}" rel="icon">
+    <link href="{{ asset('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/animate.css/animate.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/remixicon/remixicon.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 
 </head>
 
@@ -395,7 +395,7 @@
                                     <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
                                 </div>
                                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                                    <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
+                                    <img src="{{ asset('assets/img/departments-1.jpg') }}" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -407,7 +407,7 @@
                                     <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
                                 </div>
                                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                                    <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
+                                    <img src="{{ asset('assets/img/departments-2.jpg') }}" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -419,7 +419,7 @@
                                     <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
                                 </div>
                                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                                    <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
+                                    <img src="{{ asset('assets/img/departments-3.jpg') }}" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -431,7 +431,7 @@
                                     <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
                                 </div>
                                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                                    <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
+                                    <img src="{{ asset('assets/img/departments-4.jpg') }}" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                                     <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
                                 </div>
                                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                                    <img src="{{ asset('assets/img/departments-5.jpg') }}" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -467,7 +467,7 @@
 
                 <div class="col-lg-6">
                     <div class="member d-flex align-items-start">
-                        <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-1.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Walter White</h4>
                             <span>Chief Medical Officer</span>
@@ -484,7 +484,7 @@
 
                 <div class="col-lg-6 mt-4 mt-lg-0">
                     <div class="member d-flex align-items-start">
-                        <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-2.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Sarah Jhonson</h4>
                             <span>Anesthesiologist</span>
@@ -501,7 +501,7 @@
 
                 <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start">
-                        <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-3.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>William Anderson</h4>
                             <span>Cardiology</span>
@@ -518,7 +518,7 @@
 
                 <div class="col-lg-6 mt-4">
                     <div class="member d-flex align-items-start">
-                        <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-4.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Amanda Jepson</h4>
                             <span>Neurosurgeon</span>
@@ -610,7 +610,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                                <img src="{{ asset('assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
                                 <h3>Saul Goodman</h3>
                                 <h4>Ceo &amp; Founder</h4>
                                 <p>
@@ -625,7 +625,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                                <img src="{{ asset('assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
                                 <h3>Sara Wilsson</h3>
                                 <h4>Designer</h4>
                                 <p>
@@ -640,7 +640,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                                <img src="{{ asset('assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
                                 <h3>Jena Karlis</h3>
                                 <h4>Store Owner</h4>
                                 <p>
@@ -655,7 +655,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                                <img src="{{ asset('assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
                                 <h3>Matt Brandon</h3>
                                 <h4>Freelancer</h4>
                                 <p>
@@ -670,7 +670,7 @@
                     <div class="swiper-slide">
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                                <img src="{{ asset('assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
                                 <h3>John Larson</h3>
                                 <h4>Entrepreneur</h4>
                                 <p>
@@ -704,64 +704,64 @@
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-1.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-1.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-1.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-1.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-2.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-2.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-2.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-2.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-3.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-3.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-3.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-3.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-4.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-4.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-4.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-5.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-5.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-5.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-6.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-6.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-6.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-7.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-7.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-7.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="assets/img/gallery/gallery-8.jpg" class="galelry-lightbox">
-                            <img src="assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
+                        <a href="{{ asset('assets/img/gallery/gallery-8.jpg') }}" class="galelry-lightbox">
+                            <img src="{{ asset('assets/img/gallery/gallery-8.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
@@ -926,14 +926,14 @@
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
 <!-- Vendor JS Files -->
-<script src="assets/vendor/purecounter/purecounter.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
+<script src="{{ asset('assets/vendor/purecounter/purecounter.js') }}"></script>
+<script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/php-email-form/validate.js') }}"></script>
 
 <!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
+<script src="{{ asset('assets/js/main.js') }}"></script>
 
 </body>
 
