@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('layouts.base');
 });
+
+
+Route::group(['prefix' => 'rootkit'], function () {
+    Voyager::routes();
+});

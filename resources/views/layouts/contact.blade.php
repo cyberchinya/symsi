@@ -1,6 +1,5 @@
 <section id="contact" class="contact">
     <div class="container">
-
         <div class="section-title">
             <h2>Как к нам добраться</h2>
             <p>Не знаете как к нам добраться? Не проблема ниже указаны наши координаты.</p>
