@@ -1,25 +1,24 @@
 @extends('layouts.master')
-
 @section('title')
     БУЗ УР "Сюмсинская районная больница МЗ УР"
 @endsection
 @section('styles')
-
 @endsection
-
 @section('content')
 
 <!-- ======= Hero Section ======= -->
+@include('cookie-consent::index')
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
         <h1>Добро пожаловать</h1>
         <h2>БУЗ УР "Сюмсинская районная больница МЗ УР"</h2>
         {{--<a href="#about" class="btn-get-started scrollto">Get Started</a>--}}
     </div>
-</section><!-- End Hero -->
 
+</section>
+
+<!-- End Hero -->
 <main id="main">
-
     <!-- ======= Why Us Section ======= -->
   <section id="why-us" class="why-us">
         <div class="container">
@@ -65,7 +64,6 @@
                     </div><!-- End .content-->
                 </div>
             </div>
-
         </div>
     </section>
 
