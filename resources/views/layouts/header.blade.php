@@ -36,7 +36,7 @@
                         <li><a href="#">Deep Drop Down 5</a></li>
                     </ul>
                 <li><a class="nav-link scrollto" href="#departments">Пациентам</a></li>
-                <li><a class="nav-link scrollto" href="#doctors">Спасибо, доктор!</a></li>
+                <li><a class="nav-link scrollto" href="#appointment">Спасибо, доктор!</a></li>
                 <li class="dropdown"><a href="#"><span>Нац проекты</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">Drop Down 1</a></li>
