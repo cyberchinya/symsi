@@ -5,18 +5,20 @@
             <i class="bi bi-phone"></i> Приемная 8 (34152) 2-12-38
             <i class="bi bi-phone"></i> Регистратура : 8(3412) 27-14-60
         </div>
-        <div class="d-none d-lg-flex social-links align-items-center">
+{{--        <div class="d-none d-lg-flex social-links align-items-center">
             <a href="https://vk.com/id474420236" target="_blank"><i class="fab fa-vk"></i></a>
-        </div>
+        </div>--}}
+        <img id="specialButton" style="cursor:pointer;" src="{{ asset('assets/img/eye.png') }}"
+        alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" />
     </div>
 </div>
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-        <h3 class="logo me-auto"><a>Сюмсинская больница</a></h3>
+        {{--<h3 class="logo me-auto"><a>Сюмсинская больница</a></h3>--}}
         <!-- Uncomment below if you prefer to use an image logo -->
-        {{--<a href="index.html" class="logo me-auto"><img src="assets/img/gerb.pnp" alt="" class="img-fluid"></a>--}}
+        <img src="{{ asset('assets/img/herb3.png') }}" alt="" class="logo me-auto" width="50px" height="50px">
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">Главная</a></li>
