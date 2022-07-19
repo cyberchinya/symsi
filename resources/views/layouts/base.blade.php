@@ -22,45 +22,45 @@
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
         <div class="container">
-
             <div class="row">
 
                 <div class="col-lg-3 col-md-6">
                     <div class="count-box">
                         <i class="fas fa-user-md"></i>
                         <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Doctors</p>
+                        <p>Врачей</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                     <div class="count-box">
                         <i class="far fa-hospital"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Departments</p>
+                        <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Отделения</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                     <div class="count-box">
                         <i class="fas fa-flask"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Research Labs</p>
+                        <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Лаборатория</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                     <div class="count-box">
-                        <i class="fas fa-award"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Awards</p>
+                        <i class="fas fa-user"></i>
+                        <span data-purecounter-start="0" data-purecounter-end="5250" data-purecounter-duration="1" class="purecounter"></span>
+                        <p>Населения</p>
                     </div>
                 </div>
 
             </div>
 
         </div>
-    </section><!-- End Counts Section -->
+    </section>
+    <!-- End Counts Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -221,10 +221,11 @@
             </div>
 
         </div>
-    </section><!-- End Departments Section -->
+    </section>
+    <!-- End Departments Section -->
 
     <!-- ======= Doctors Section ======= -->
-    <section id="doctors" class="doctors">
+{{--    <section id="doctors" class="doctors">
         <div class="container">
 
             <div class="section-title">
@@ -305,7 +306,8 @@
             </div>
 
         </div>
-    </section><!-- End Doctors Section -->
+    </section>--}}
+    <!-- End Doctors Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">

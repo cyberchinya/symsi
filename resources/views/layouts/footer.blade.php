@@ -21,9 +21,9 @@
             <div class="copyright">
                 &copy; Разработка <strong><span>DEVOPS.</span></strong> Специально для БУЗ УР "Сюмсинская районная больница МЗ УР"
             </div>
-            <div class="credits">
+{{--            <div class="credits">
                  Дизайн и разработка сайтов<a href="https://raizen.network/" target="_blank"> DEVOPS</a>
-            </div>
+            </div>--}}
         </div>
         <div class="social-links text-center text-md-right pt-3 pt-md-0">
 {{--            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

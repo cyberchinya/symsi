@@ -19,6 +19,8 @@ Route::get('/', function () {
 Route::get('/news', function (){
    return view('news');
 });
+
+//админка
 Route::group(['prefix' => 'rootkit'], function () {
     Voyager::routes();
 });
