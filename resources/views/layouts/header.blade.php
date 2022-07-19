@@ -21,7 +21,7 @@
         <img src="{{ asset('assets/img/herb3.png') }}" alt="" class="logo me-auto" width="50px" height="50px">
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-                <li><a class="nav-link scrollto active" href="#hero">Главная</a></li>
+                <li><a class="nav-link scrollto active" href="/">Главная</a></li>
                 <li><a class="nav-link scrollto" href="/news">Новости</a></li>
                 <li class="dropdown"><a href="#"><span>Услуги</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>

@@ -16,8 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('layouts.base');
 });
-
-
+Route::get('/news', function (){
+   return view('news');
+});
 Route::group(['prefix' => 'rootkit'], function () {
     Voyager::routes();
 });

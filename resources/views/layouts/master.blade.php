@@ -5,6 +5,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>@yield('title')</title>
     <meta content="" name="description">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta content="" name="keywords">
     <!-- Favicons -->
     <link href="{{ asset('assets/img/herb3.png') }}" rel="icon">
@@ -22,7 +23,6 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <!-- Версия для слепых -->
     <link href="{{ asset('assets/sleep/css/special.min.css') }}">
-
     <!-- Template Main CSS File -->
     <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
 </head>
@@ -47,4 +47,4 @@
 <script src="{{ asset('assets/js/main.js') }}"></script>
 </body>
 @yield('scripts')
-</html>
+</body>

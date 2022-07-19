@@ -5,7 +5,7 @@
         <div class="section-title">
             <h2>Спасибо доктор</h2>
             <p>Отправляя свои персональные данные из данной формы, я даю согласие на <a href="http://www.consultant.ru/document/cons_doc_LAW_61801/6c94959bc017ac80140621762d2ac59f6006b08c/"
-                                                                                        target="_blank">обработку моих персональных данных согласно ч.4 ст.9 152 ФЗ.</a> </p>
+            target="_blank">обработку моих персональных данных согласно ч.4 ст.9 152 ФЗ.</a> </p>
         </div>
 
         <form action="forms/appointment.php" method="post" role="form" class="php-email-form">
