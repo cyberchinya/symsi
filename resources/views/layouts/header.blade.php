@@ -19,8 +19,8 @@
         {{--<h3 class="logo me-auto"><a>Сюмсинская больница</a></h3>--}}
         <!-- Uncomment below if you prefer to use an image logo -->
         <div class="container mx-lg-4">
-        <img src="{{ asset('assets/img/herb3.png') }}" alt="герб Удмуртии" class="logo me-auto" width="50px" height="50px">
-        <img src="{{ asset('assets/img/gerb3.jpg') }}" alt="герб Сюмси" class="logo me-auto" width="70px" height="50px">
+        <img src="{{ asset('assets/img/herb3.png') }}" alt="герб Удмуртии" title="герб Удмуртии" class="logo me-auto" width="50px" height="50px">
+        <img src="{{ asset('assets/img/gerb3.jpg') }}" alt="герб Сюмси" title="герб Сюмси" class="logo me-auto" width="70px" height="50px">
     </div>
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
