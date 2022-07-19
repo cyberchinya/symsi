@@ -67,8 +67,10 @@
         <div class="container">
 
             <div class="section-title">
-                <h2>Services</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                <h2>Сервисы</h2>
+                <p>С помощью данных сервисов Вы можете вызвать себе врача на дом,
+                   а также записаться через портал госуслуг, либо записать своих родственников.
+                </p>
             </div>
 
             <div class="row">
