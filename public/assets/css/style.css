@@ -394,8 +394,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("../img/med1.jpg") top center;
+  height: 90vh;
+  background: url("../img/med2.jpg") top center;
   background-size: cover;
   margin-bottom: -100px;
 }
@@ -413,9 +413,9 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
     margin: 10px 0 0 0;
     font-size: 24px;
-    color: #131212;
+    color: #080b4f;
     font-weight: bold;
-    text-shadow: 0 0 10px #008cff,0 0 20px #030303,0 0 30px #ffa600,0 0 40px #0fd521;
+    /*text-shadow: 0 0 10px #008cff,0 0 20px #030303,0 0 30px #ffa600,0 0 40px #0fd521;*/
 
 }
 #hero .btn-get-started {
@@ -775,10 +775,10 @@ section {
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
-.counts {
-  background: #f1f7fd;
-  padding: 70px 0 60px;
-}
+/*.counts {*/
+/*  background: #f1f7fd;*/
+/*  padding: 70px 0 60px;*/
+/*}*/
 .counts .count-box {
   padding: 30px 30px 25px 30px;
   width: 100%;

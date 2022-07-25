@@ -3,16 +3,15 @@
     БУЗ УР "Сюмсинская районная больница МЗ УР"
 @endsection
 @section('styles')
-@endsection
-@section('content')
 
+@section('content')
+@endsection
 <!-- ======= Hero Section ======= -->
 @include('cookie-consent::index')
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
         <h1>Добро пожаловать</h1>
         <h2>БУЗ УР "Сюмсинская районная больница МЗ УР"</h2>
-        {{--<a href="#about" class="btn-get-started scrollto">Get Started</a>--}}
     </div>
 
 </section>
@@ -24,40 +23,6 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="count-box">
-                        <i class="fas fa-user-md"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Врачей</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-                    <div class="count-box">
-                        <i class="far fa-hospital"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Отделения</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                    <div class="count-box">
-                        <i class="fas fa-flask"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Лаборатория</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                    <div class="count-box">
-                        <i class="fas fa-user"></i>
-                        <span data-purecounter-start="0" data-purecounter-end="5250" data-purecounter-duration="1" class="purecounter"></span>
-                        <p>Населения</p>
-                    </div>
-                </div>
-
-            </div>
-
         </div>
     </section>
     <!-- End Counts Section -->
@@ -68,35 +33,34 @@
 
             <div class="section-title">
                 <h2>Сервисы</h2>
-                <p>С помощью данных сервисов Вы можете вызвать себе врача на дом,
-                   а также записаться через портал госуслуг, либо записать своих родственников.
+                <p>
+        С помощью данных сервисов, вы можете воспользоваться услугами нашей организации
                 </p>
             </div>
-
             <div class="row">
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                    <div class="icon-box">
-                        <div class="icon"><i class="fas fa-heartbeat"></i></div>
-                        <h4><a href="">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-                    </div>
-                </div>
+{{--                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">--}}
+{{--                    <div class="icon-box">--}}
+{{--                        <div class="icon"><i class="fas fa-heartbeat"></i></div>--}}
+{{--                        <h4><a href="">Lorem Ipsum</a></h4>--}}
+{{--                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-                    <div class="icon-box">
-                        <div class="icon"><i class="fas fa-pills"></i></div>
-                        <h4><a href="">Sed ut perspiciatis</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                    </div>
-                </div>
+{{--                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">--}}
+{{--                    <div class="icon-box">--}}
+{{--                        <div class="icon"><i class="fas fa-pills"></i></div>--}}
+{{--                        <h4><a href="">Sed ut perspiciatis</a></h4>--}}
+{{--                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-                    <div class="icon-box">
-                        <div class="icon"><i class="fas fa-hospital-user"></i></div>
-                        <h4><a href="">Magni Dolores</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                    </div>
-                </div>
+{{--                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">--}}
+{{--                    <div class="icon-box">--}}
+{{--                        <div class="icon"><i class="fas fa-hospital-user"></i></div>--}}
+{{--                        <h4><a href="">Magni Dolores</a></h4>--}}
+{{--                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
@@ -454,6 +418,7 @@
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 @endsection
 @section('scripts')
+
 @endsection
 
 
