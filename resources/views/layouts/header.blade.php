@@ -61,7 +61,7 @@
                         <li><a href="#">Диспансеризация</a></li>
                         <li><a href="#">Грипп</a></li>
                         <li><a href="#">COVID 19</a></li>
-                        <li><a href="#"></a></li>
+                        <li><a href="#">Карта сайта</a></li>
                     </ul>
                 <li><a class="nav-link scrollto" href="#contact">Контакты</a></li>
             </ul>
