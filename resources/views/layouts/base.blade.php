@@ -64,25 +64,25 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <div class="icon"><i class="fas fa-dna"></i></div>
-                        <h4><a href="">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                        <div class="icon"><i class="fas fa-hospital-user"></i></div>
+                        <h4><a href="https://www.gosuslugi.ru/85082/" target="_blank">Запись через портал ГосУслуг</a></h4>
+                        <p>Запись на приём к врачу через портал ГосУслуг</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <div class="icon"><i class="fas fa-wheelchair"></i></div>
-                        <h4><a href="">Dele cardo</a></h4>
-                        <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                        <div class="icon"><i class="fa fa-ambulance"></i></div>
+                        <h4><a href="https://uslugi.udmurt.ru/root/10027" target="_blank">Запись через региональный портал РПГУ</a></h4>
+                        <p>Запись через региональный портал РПГУ</p>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <div class="icon"><i class="fas fa-notes-medical"></i></div>
-                        <h4><a href="">Divera don</a></h4>
-                        <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                        <div class="icon"><i class="fa fa-user-md"></i></div>
+                        <h4><a href="https://www.gosuslugi.ru/600361/" target="_blank">Вызов врача на дом</a></h4>
+                        <p>Сервис вызова врача на дом через портал ГосУслуг</p>
                     </div>
                 </div>
 

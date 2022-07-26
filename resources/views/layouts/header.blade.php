@@ -18,8 +18,7 @@
         <img src="{{ asset('assets/img/herb3.png') }}" alt="герб Удмуртии" title="герб Удмуртии" class="logo me-auto" width="50px" height="50px">
         <img src="{{ asset('assets/img/gerb3.jpg') }}" alt="герб Сюмси" title="герб Сюмси" class="logo me-auto" width="70px" height="50px">
 
-{{--                <p class="logo me-auto"><a>БУЗ УР "Сюмсинская РБ МЗ УР"</a></p>--}}
-
+            <td class="rightcol">БУЗ УР "Сюмсинская РБ МЗ УР"</td>
 
     </div>
         <nav id="navbar" class="navbar order-last order-lg-0">
