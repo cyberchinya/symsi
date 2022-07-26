@@ -57,6 +57,7 @@
                         <li><a href="#appointment">Спасибо доктор</a></li>
                         <li><a class="nav-link scrollto active" href="#faq">Часто задаваемые вопросы</a></li>
                         <li><a href="#">График работы</a></li>
+                        <li><a href="#">Антикоррупционная деятельность</a></li>
                         <li><a href="#">Диспансеризация</a></li>
                         <li><a href="#">Грипп</a></li>
                         <li><a href="#">COVID 19</a></li>
